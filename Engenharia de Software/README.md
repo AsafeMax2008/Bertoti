@@ -1,1 +1,6 @@
+Atividade 1
+Resposta: O autor diferencia Engenharia de Software e programação. Já a Engenharia de Software aplica esses conhecimentos para criar sistemas reais, confiáveis e de qualidade.
+O texto compara o software com outras áreas da engenharia. Enquanto engenheiros civis e aeronáuticos criam produtos tangíveis, como prédios e aviões, o software é intangível, pois não pode ser tocado, embora produza efeitos reais. Por isso, com a crescente importância dos softwares em nossas vidas, é necessário adotar métodos mais rigorosos, seguros e confiáveis em seu desenvolvimento.
 
+Atividade 2
+Resposta: O texto explica que Engenharia de Software não é apenas escrever código, mas também envolve processos e práticas para desenvolver e manter sistemas ao longo do tempo. A principal ideia é criar softwares sustentáveis, capazes de acompanhar mudanças e crescimento. Para isso, é preciso considerar o tempo e as mudanças, a escala e o crescimento e os trade-offs, que são as escolhas entre diferentes alternativas, onde uma decisão pode trazer benefícios, mas também custos ou limitações. Assim, a Engenharia de Software busca encontrar o melhor equilíbrio entre qualidade, custo, tempo e manutenção, garantindo que o software continue útil no futuro.
